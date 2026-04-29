@@ -1,8 +1,0 @@
-{
-  "name": "maisonsoumelia-stripe-vercel",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "stripe": "^16.5.0"
-  }
-}
